@@ -1,0 +1,24 @@
+.details {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+  }
+  
+  .company-details h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .company-details p {
+    margin: 5px 0;
+  }
+  
+  .company-details strong {
+    font-weight: bold;
+  }
+  .backbutton{
+    margin: 15px;
+  }
