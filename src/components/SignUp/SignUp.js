@@ -14,7 +14,7 @@ const SignUp = () => {
       name: nameRef.current.value,
       password: passwordRef.current.value,
       email: emailRef.current.value,
-      phoneRef: passwordRef.current.value,
+      phone: phoneRef.current.value,
       profession: ProfessionRef.current.value,
     };
     localStorage.setItem(nameRef.current.value,JSON.stringify(formDetails))
